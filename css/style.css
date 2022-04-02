@@ -70,7 +70,7 @@ p{
 }
 
 .py-1{
-  padding: 1.5rem 0;
+  padding: 1rem 0;
 }
 
 .py-2{
@@ -214,7 +214,7 @@ p{
 
 #who .who-img {
   background: url('../img/edgeledger.jpg') no-repeat center center/cover;
-  padding-top: 2rem;
+  
 }
 
 /* Clients */
@@ -246,3 +246,23 @@ p{
   padding: 0.5rem;
 }
 
+
+#socials {
+  padding-left: 1rem ;
+  
+  justify-content: space-around;
+}	
+
+#socials a {
+  padding-top: 4rem;
+  text-decoration: none;
+  
+}
+  
+#socials #social-instagram{
+  padding: 0 2rem;
+}
+
+#socio {
+  font-size: 2rem;
+}
