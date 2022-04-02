@@ -247,21 +247,3 @@ p{
 }
 
 
-#socials {
-  padding-left: 1rem ;
-  justify-content: space-around;
-}	
-
-#socials a {
-  padding-top: 4rem;
-  text-decoration: none;
-  
-}
-  
-#socials #social-instagram{
-  padding: 0 2rem;
-}
-
-#socio {
-  font-size: 2rem;
-}
